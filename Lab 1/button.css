@@ -1,0 +1,36 @@
+.common{
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+}
+
+.counter{
+    color: white;
+    background: #202020;
+    display: inline-block;
+    text-align: center;
+    margin: 5px 10px;
+    line-height: 50px;
+    width: 50px;
+    height: 50px;
+    font-size: large;
+}
+
+.button{
+    display: inline-block;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    border: 2px solid;
+    border-radius: 1px;
+    background: #202020;
+    margin: 0 0 0 -20px;
+}
